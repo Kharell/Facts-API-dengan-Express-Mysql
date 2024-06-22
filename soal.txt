@@ -1,0 +1,6 @@
+1.	Data mahasiswa yang perlu disimpan minimal mencakup: 
+a.	ID (integer, auto-increment)
+b.	Nama (string)
+c.	NIM (string)
+d.	Jurusan (string)
+e.	Email (string)
